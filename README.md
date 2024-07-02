@@ -1,0 +1,2 @@
+# Advanced Research Paper Classification
+This project aims to help label research papers to fit arXiv's extensive labelling system. We used SciBERT to create a robust classification pipeline that uses the abstracts of research papers to sort them into 57 labels. This leverages the now popular transformers mechanism to help the model understand the abstracts, and then use this information to accurately classify the papers.
